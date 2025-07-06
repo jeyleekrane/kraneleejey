@@ -1,6 +1,6 @@
 # Hi there, I'm Jeyleekrane! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](./assets/Screenshot 2024-03-13 110904.png)
 
 ## About Me 🚀
 
@@ -53,5 +53,5 @@ I'm a passionate **Backend Developer** with a focus on building robust, scalable
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - https://www.linkedin.com/in/hassan-abdullahi-80744320b/
-- **[Twitter]**(your_twitter_profile_link)
+- https://www.facebook.com/in/jeyleekrane.abdullahi
 - https://github.com/jeyleekrane

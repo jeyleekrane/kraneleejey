@@ -1,6 +1,5 @@
 # Hi there, I'm Jeyleekrane! 👋
 
-![Banner Image](./assets/Screenshot 2024-03-13 110904.png)
 
 ## About Me 🚀
 

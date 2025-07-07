@@ -7,9 +7,9 @@ I'm a passionate **Backend Developer** with a focus on building robust, scalable
 
 - 🌱 Currently learning: **[e.g., Go, Kubernetes, event-driven architectures]**
 - 🔭 Working on: **[e.g., a RESTful API for a new e-commerce platform, optimizing database queries for a personal project]**
-- 🌍 Languages: **[e.g., English, Yoruba, Python, Node.js, Java, Go, Ruby]**
-- 📫 How to reach me: **[your email address or other preferred contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself, e.g., "I once debugged a production issue while hiking in the mountains!"]**
+- 🌍 Languages: **[e.g., English, Yoruba, Python, Node.js, Java, Go, Ruby,Dart(Mobile App Development]**
+- 📫 How to reach me: **[jeyleekrane@gmail.com]**
+- ⚡ Fun fact: **[Gamer and Coding Freak"]**
 
 ---
 
